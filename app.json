@@ -1,31 +1,16 @@
 {
   "expo": {
-    "name": "confusion",
-    "slug": "confusion",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "bundleIdentifier": "com.tamer.confusion",
-      "buildNumber": "1.0.0"
-    },
-    "android": {
-      "package": "com.tamer.confusion",
-      "versionCode": 1
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+   "name": "Confusion",
+   "icon": "./assets/icon.png",
+   "version": "1.0.0",
+   "slug": "Confusion",
+   "ios": {
+     "bundleIdentifier": "com.yahoo.tameradel209",
+     "buildNumber": "1.0.0"
+   },
+   "android": {
+     "package": "com.yahoo.tameradel209",
+     "versionCode": 1
+   }
   }
 }

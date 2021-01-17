@@ -135,7 +135,7 @@ export const postComment = (dishId, rating, comment, author ) => dispatch => {
         "author": author, 
         "date": ISODate
     }
-    dispatch(addComment(Comment))
+    setTimeout(dispatch(addComment(Comment)), 2000)
 }
 
 export const addFavorite = (favorite) => ({
